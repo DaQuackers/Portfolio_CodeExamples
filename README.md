@@ -1,2 +1,2 @@
 # Portfolio_CodeExamples
-Repository of Code Examples
+This Repo contains snipets of code I have written either in college for assignments or for projects.
